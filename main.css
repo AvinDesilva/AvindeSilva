@@ -1,0 +1,21 @@
+body {
+  background: #6B949E;
+  font-family: "Courier New";
+
+}
+h1, p, li {
+  color: #012B35;
+}
+.secondary {
+  background: #0F434F;
+  color:#6B949E;
+}
+header {
+    color: #black;
+}
+nav ul {
+  margin: 0;
+}
+header nav ul li {
+  list-style-type: none;
+}
